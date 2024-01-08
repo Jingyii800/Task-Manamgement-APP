@@ -1,0 +1,2 @@
+--insert into todo(DONE, ID, DESCRIPTION, USERNAME, TARGETDATE)
+--values(false, 11, 'Dance', 'Jingyi', CURRENT_DATE());
